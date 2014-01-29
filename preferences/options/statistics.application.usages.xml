@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="run-configuration-type">
+      <project id="dubizzle" values="Python.DjangoServer" />
+    </group>
+    <group name="module type">
+      <project id="dubizzle" values="PYTHON_MODULE" />
+    </group>
+    <group name="vcs">
+      <project id="dubizzle" values="Git" />
+    </group>
+    <group name="frameworks">
+      <project id="dubizzle" values="django" />
+    </group>
+    <group name="file-type">
+      <project id="dubizzle" values="Python,Locale,DTD,SQL,Native,ReST,Images,ARCHIVE,JavaScript,UNKNOWN,XML,SCSS,JSON,CSS,HTML,Ini,PLAIN_TEXT" />
+    </group>
+    <group name="run-configuration-type-temp">
+      <project id="dubizzle" values="PythonConfigurationType" />
+    </group>
+    <group name="JavaScript versions">
+      <project id="dubizzle" values="DEFAULT" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="dubizzle" values="Project,Project" />
+    </group>
+  </component>
+</application>
+

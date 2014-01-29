@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 2.7.5 virtualenv at ~/dev/webapps/django" />
+      <type value="Python SDK" />
+      <homePath value="$USER_HOME$/dev/webapps/django/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/dev/webapps/django/src/django-infinite-memcached" />
+            <root type="simple" url="file://$USER_HOME$/dev/webapps/django/src/django-redis-cache" />
+            <root type="simple" url="file://$USER_HOME$/dev/webapps/django/src/django-statsd" />
+            <root type="simple" url="file://$USER_HOME$/dev/webapps/django/src/pyes" />
+            <root type="simple" url="file://$USER_HOME$/dev/webapps/django/src/furl" />
+            <root type="simple" url="file://$USER_HOME$/dev/webapps/django/src/autopullrequest" />
+            <root type="simple" url="file://$USER_HOME$/dev/webapps/django/src/memcache-debug-panel" />
+            <root type="simple" url="file://$USER_HOME$/dev/webapps/django/src/django-debug-toolbar-redis" />
+            <root type="simple" url="file://$USER_HOME$/dev/webapps/django/src/diff-coverage" />
+            <root type="simple" url="file://$USER_HOME$/dev/webapps/django/src/django" />
+            <root type="simple" url="file://$USER_HOME$/dev/webapps/django/lib/python2.7/site-packages/readline-6.2.4.1-py2.7-macosx-10.7-intel.egg" />
+            <root type="simple" url="file://$USER_HOME$/dev/webapps/django/src/logcandy" />
+            <root type="simple" url="file://$USER_HOME$/dev/webapps/django/lib/python2.7" />
+            <root type="simple" url="file://$USER_HOME$/dev/webapps/django/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
+            <root type="simple" url="file://$USER_HOME$/dev/webapps/django/lib/python2.7/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/dev/webapps/django/lib/python2.7/site-packages/PIL" />
+            <root type="simple" url="file://$USER_HOME$/dev/webapps/django/lib/python2.7/site-packages/newrelic-1.11.0.55" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm30/python_stubs/1347670026" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/dev/webapps/django/dubizzle" />
+    </jdk>
+  </component>
+</application>
+
