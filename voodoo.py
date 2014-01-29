@@ -51,6 +51,7 @@ def remove():
         else:
             print 'Does not exist => %s' % path
 
+
 def apply_preferences():
     for dir_ in os.listdir(PREFERENCES_DIR):
         source = os.path.join(PREFERENCES_DIR, dir_)
